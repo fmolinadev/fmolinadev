@@ -1,10 +1,10 @@
 ### Hola Mundo! Soy Francisco Molina 👋
 
-Un curioso del entorno digital. Tengo experiencia laboral como Asistente Privado, Community Manager Freelance y en diversos roles dentro de los medios de comunicación (radio, tv y web) donde adquirí el valor del trabajo en equipo y el respeto a los demás. A finales de 2021, decidí abandonar mis estudios universitarios de Comunicación Social para dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir mi primer trabajo IT.
+Un curioso del entorno digital. Tengo experiencia laboral como Asistente Privado, Community Manager Freelance y en diversos roles dentro de los medios de comunicación (radio, TV y web) donde adquirí el valor del trabajo en equipo y el respeto a los demás. A finales de 2021, decidí abandonar mis estudios universitarios de Comunicación Social para dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir mi primer trabajo IT.
 
 
-- 🌱 Actualmente estoy aprendendo: Typescript.
-- 💬 Tengo conocimiento de HTML, CSSJ, avaScript, React, Redux, Node, Express, Sequilize y PostgreSQL.
+- 🌱 Actualmente estoy aprendiendo: TypeScript.
+- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, Redux, Node, Express, Sequelize  y PostgreSQL.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología y poder aplicarlos en proyectos de impacto real.
 - 📫 Contacto: fdm.molina@gmail.com
 
