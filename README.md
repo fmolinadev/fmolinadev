@@ -1,4 +1,4 @@
-### Hello Word! I am Francisco Molina 👋
+### Hola Mundo! Soy Francisco Molina 👋
 
 Un curioso del entorno digital. Tengo experiencia laboral como Asistente Privado, Community Manager Freelance y en diversos roles dentro de los medios de comunicación (radio, tv y web) donde adquirí el valor del trabajo en equipo y el respeto a los demás. A finales de 2021, decidí abandonar mis estudios universitarios de Comunicación Social para dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir mi primer trabajo IT.
 
