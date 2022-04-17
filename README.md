@@ -1,6 +1,6 @@
 ### Hola Mundo! Soy Francisco Molina
 
-A finales de 2021, decidí abandonar mis estudios universitarios de Comunicación Social para dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir por mi primer trabajo IT. Me considero un entusiasta del entorno digital.
+Me considero un entusiasta del entorno digital. A finales de 2021, decidí abandonar mis estudios universitarios de Comunicación Social para dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir por mi primer trabajo IT. 
 
 
 - 🌱 Actualmente estoy aprendiendo: TypeScript.
