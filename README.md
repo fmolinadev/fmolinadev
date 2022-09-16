@@ -1,12 +1,12 @@
-### Hola Mundo! Soy Francisco Molina
+### Hola! Soy Francisco Molina
 
 Me considero un entusiasta del entorno digital. A finales de 2021, decidí abandonar mis estudios universitarios de Comunicación Social para dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir por mi primer trabajo IT. 
 
-Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance.
+Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance. 
 
 
-- 🌱 Actualmente estoy aprendiendo: GraphQL.
-- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, Redux, Node, Express, Sequelize  y PostgreSQL.
+- 🌱 Actualmente estoy aprendiendo: Go.
+- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, Redux, Styled Component, Node, Express, Sequelize  y PostgreSQL.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología y poder aplicarlos en proyectos de impacto real.
 - 📫 Contacto: fdm.molina@gmail.com
 
