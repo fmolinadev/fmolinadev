@@ -6,7 +6,7 @@ Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Mana
 
 
 - 🌱 Actualmente estoy aprendiendo: Go.
-- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, Redux, Styled Component, Node, Express, Sequelize  y PostgreSQL.
+- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, Redux, Styled Component, y Node.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología y poder aplicarlos en proyectos de impacto real.
 - 📫 Contacto: fdm.molina@gmail.com
 
