@@ -13,7 +13,7 @@ Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Mana
 <h3 align="left">Conectemos por:</h3>
 <p align="left">
 <a href="https://twitter.com/francisco_wav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="francisco_wav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/franciscomolina-wav/?locale=es_es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franciscomolina-wav/?locale=es_es" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/franciscomolina-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franciscomolina-wav/?locale=es_es" height="30" width="40" /></a>
 <a href="https://instagram.com/franciscomolina.wav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="franciscomolina.wav" height="30" width="40" /></a>
 </p>
 
