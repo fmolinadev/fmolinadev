@@ -5,7 +5,7 @@ Me considero un entusiasta del entorno digital. A finales de 2021, decidí aband
 Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance. 
 
 
-- 🌱 Actualmente estoy aprendiendo: Tailwind CSS.
+- 🌱 Actualmente estoy aprendiendo: Python.
 - 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, Redux, Styled Component, y Node.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología y poder aplicarlos en proyectos de impacto real.
 - 📫 Contacto: fdm.molina@gmail.com
