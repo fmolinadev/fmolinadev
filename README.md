@@ -1,6 +1,6 @@
 ### Hola! Soy Francisco Molina
 
-Me considero un entusiasta del entorno digital. A finales de 2021, decidí abandonar mis estudios universitarios de Comunicación Social para dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir por mi primer trabajo IT. 
+Me considero un entusiasta del entorno digital. A finales de 2021, decidí dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir por mi primer trabajo IT. 
 
 Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance. 
 
