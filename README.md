@@ -5,7 +5,7 @@ Me considero un entusiasta del entorno digital. A finales de 2021, decidí dedic
 Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance. 
 
 
-- 🌱 Actualmente estoy aprendiendo: Go.
+- 🌱 Actualmente estoy aprendiendo: Pyrhon
 - 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, TailwindCSS, Styled Component, Node, Prisma y PostgreSQL.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología y poder aplicarlos en proyectos de impacto real.
 - 📫 Contacto: fdm.molina@gmail.com
