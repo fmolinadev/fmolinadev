@@ -1,11 +1,11 @@
 ### Hola! Soy Francisco Molina
 
-Me considero un entusiasta del entorno digital. A finales de 2021, decidí dedicarme a estudiar programación, tomar nuevos caminos en mi vida e ir por mi primer trabajo IT. 
+Me considero un entusiasta del entorno digital. A finales de 2021, decidí dedicarme a estudiar programación, tomar nuevos caminos y desafios en mi vida como profesional.
 
-Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance. 
+Hoy me desempeño principalmente como Frontend Developer (React) en Uroff.net y estudio la Tecnicatura Universitaria en Desarrollo Web en UNER. Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance. 
 
 
-- 🌱 Actualmente estoy aprendiendo: Python
+- 🌱 Estoy aprendiendo: Python
 - 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, TailwindCSS, Styled Component, Node, Prisma y PostgreSQL.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología y poder aplicarlos en proyectos de impacto real.
 - 📫 Contacto: fdm.molina@gmail.com
