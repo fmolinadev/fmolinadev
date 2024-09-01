@@ -2,12 +2,12 @@
 
 Me considero un entusiasta del entorno digital. A finales de 2021, decidí dedicarme a estudiar programación, tomar nuevos caminos y desafios en mi vida como profesional.
 
-Hoy me desempeño principalmente como Frontend Developer (React) en Uroff.net y estudio la Tecnicatura Universitaria en Desarrollo Web en UNER. Anteriormente trabajaba como autonomo siendo editor audiovisual y Community Manager Freelance. 
+Hoy me desempeño principalmente como Frontend Developer (React + Typescript), soy Co-Fundador de Apprende.cl startup EdTech, y estudio la Tecnicatura Universitaria en Desarrollo Web en UNER. Anteriormente trabajaba como autonomo siendo comunicador, editor audiovisual y Community Manager Freelance. 
 
 
 - 🌱 Estoy aprendiendo: Python
-- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, TailwindCSS, Styled Component, Node, Prisma y PostgreSQL.
-- 🙌 Mi deseo es ampliar mis conocimientos en tecnología y poder aplicarlos en proyectos de impacto real.
+- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, TailwindCSS, Styled Component, Node, Prisma, MongoDB y PostgreSQL.
+- 🙌 Mi deseo es ampliar mis conocimientos en tecnología.
 - 📫 Contacto: fdm.molina@gmail.com
 
 <h3 align="left">Conectemos por:</h3>
