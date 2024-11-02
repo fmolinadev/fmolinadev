@@ -1,14 +1,12 @@
 ### Hola! Soy Francisco Molina
 
-Me considero un entusiasta del entorno digital. A finales de 2021, decidí dedicarme a estudiar programación, tomar nuevos caminos y desafios en mi vida como profesional.
-
-Hoy me desempeño principalmente como Frontend Developer (React + Typescript), soy Co-Fundador de Apprende.cl startup EdTech, y estudio la Tecnicatura Universitaria en Desarrollo Web en UNER. Anteriormente trabajaba como autonomo siendo comunicador, editor audiovisual y Community Manager Freelance. 
+Soy desarrollador web con 2 años de experiencia en React, integrando startups y siendo parte del equipo fundador de una de ellas, lo cual me ha permitido participar en la creación de productos desde la idea inicial hasta su implementación. Esta experiencia ha reforzado mis habilidades de trabajo en equipo y colaboración en entornos dinámicos. Además, cuento con más de 7 años de trayectoria en Medios de Comunicación, desempeñándome como Editor Audiovisual, Productor de radio y TV, y Community Manager, lo que me ha dado una visión integral de la gestión y producción de contenidos. Actualmente, curso una Tecnicatura en Programación Web. 
 
 
 - 🌱 Estoy aprendiendo: Python
-- 💬 Tengo conocimiento de HTML, CSS, JavaScript, React, TailwindCSS, Styled Component, Node, Prisma, MongoDB y PostgreSQL.
+- 💬 Tengo conocimiento de HTML, CSS, JavaScript, Typescript, React, TailwindCSS, Styled Component, Material UI, Next UI, npm, Node, MongoDB y PostgreSQL.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología.
-- 📫 Contacto: fdm.molina@gmail.com
+- 📫 Contacto: franciscomolina.dev@gmail.com
 
 <h3 align="left">Conectemos por:</h3>
 <p align="left">
