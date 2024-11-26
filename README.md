@@ -3,8 +3,8 @@
 Soy desarrollador web con 2 años de experiencia en React, integrando startups y siendo parte del equipo fundador de una de ellas, lo cual me ha permitido participar en la creación de productos desde la idea inicial hasta su implementación. Esta experiencia ha reforzado mis habilidades de trabajo en equipo y colaboración en entornos dinámicos. Además, cuento con más de 7 años de trayectoria en Medios de Comunicación, desempeñándome como Editor Audiovisual, Productor de radio y TV, y Community Manager, lo que me ha dado una visión integral de la gestión y producción de contenidos. Actualmente, curso una Tecnicatura en Programación Web. 
 
 
-- 🌱 Estoy aprendiendo: Python
-- 💬 Tengo conocimiento de HTML, CSS, JavaScript, Typescript, React, TailwindCSS, Styled Component, Material UI, Next UI, npm, Node, MongoDB y PostgreSQL.
+- 🌱 Estoy aprendiendo: React Native y CI/CD
+- 💬 Tengo conocimiento de HTML, CSS, JavaScript, Typescript, React, TailwindCSS, Styled Component, Material UI, Next UI, npm, Tanstack Query, Node, MongoDB y PostgreSQL.
 - 🙌 Mi deseo es ampliar mis conocimientos en tecnología.
 - 📫 Contacto: franciscomolina.dev@gmail.com
 
