@@ -1,7 +1,11 @@
 ### Hola! Soy Francisco Molina
 
-Soy desarrollador web con 2 años de experiencia en React, integrando startups y siendo parte del equipo fundador de una de ellas, lo cual me ha permitido participar en la creación de productos desde la idea inicial hasta su implementación. Esta experiencia ha reforzado mis habilidades de trabajo en equipo y colaboración en entornos dinámicos. Además, cuento con más de 7 años de trayectoria en Medios de Comunicación, desempeñándome como Editor Audiovisual, Productor de radio y TV, y Community Manager, lo que me ha dado una visión integral de la gestión y producción de contenidos. Actualmente, curso una Tecnicatura en Programación Web. 
+Frontend Developer con formación como Fullstack JS. Cuento con más de dos años de experiencia como Desarrollador Frontend con React y Typescript, integrando startups y participando en todo el ciclo de vida del producto, desde la investigación hasta la implementación. 
+En estos años mejore mis habilidades de trabajo en equipo y colaboración en entornos dinámicos. Además, cuento con un background diverso: 6 años como secretario privado y más de 7 años en medios de comunicación.
 
+Actualmente, curso una Tecnicatura en Programación Web. Me considero un entusiasta del entorno digital y las nuevas tecnologías. 
+
+En mis tiempos libres, disfruto acampar, soy melómano y coleccionista de vinilos.
 
 - 🌱 Estoy aprendiendo: React Native y CI/CD
 - 💬 Tengo conocimiento de HTML, CSS, JavaScript, Typescript, React, TailwindCSS, Styled Component, Material UI, Next UI, npm, Tanstack Query, Node, MongoDB y PostgreSQL.
