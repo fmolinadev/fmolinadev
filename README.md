@@ -8,8 +8,8 @@ Actualmente, curso una Tecnicatura en Programación Web. Me considero un entusia
 En mis tiempos libres, disfruto acampar, soy melómano y coleccionista de vinilos.
 
 - 🌱 Estoy aprendiendo: React Native y CI/CD
-- 💬 Tengo conocimiento de HTML, CSS, JavaScript, Typescript, React, TailwindCSS, Styled Component, Material UI, Next UI, npm, Tanstack Query, Node, MongoDB y PostgreSQL.
-- 🙌 Mi deseo es ampliar mis conocimientos en tecnología.
+- 💬 Tengo conocimiento de HTML, CSS, JavaScript, Typescript, React, TailwindCSS, Styled Component, Material UI, Next UI, npm, Tanstack Query, Node, Nest, Next, MongoDB y PostgreSQL.
+- 🙌 Mi deseo es ampliar mis conocimientos en tecnología y crecer en entornos dinamicos.
 - 📫 Contacto: franciscomolina.dev@gmail.com
 
 <h3 align="left">Conectemos por:</h3>
